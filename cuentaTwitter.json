@@ -1,0 +1,15 @@
+{
+  Usuario_idUsuario       :   1,
+  Nombre                  :  “@Prueba1",
+  FechaCreacion           :   ISODate("2015-12-01T10:01:22Z"),
+  Biografia               :   “Biografía cuenta prueba 1"
+  Descripcion             :   “"
+}
+ 
+{
+  Usuario_idUsuario       :   1,
+  Nombre                  :   “@Prueba2",
+  FechaCreacion           :   ISODate("2015-12-01T10:01:22Z"),
+  Biografia               :   “Biografía cuenta prueba 2"
+  Descripcion             :   “"
+}

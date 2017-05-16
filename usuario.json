@@ -1,0 +1,21 @@
+{
+  _id				:	1,
+  Nombre			: 	“Álvaro",
+  Apellido			: 	“Apellido1 Apellido2",
+  Email				: 	“email@gmail.com",
+  Contraseña		:	"contraseña",
+  UsuarioGoogle		:	"email@gmail.com",
+  UsuarioOpenID		:	"UsuarioOpenID",
+  UsuarioFacebook	:	"email@gmail.com",
+}
+
+{
+  _id				:	2,
+  Nombre			: 	“Alberto",
+  Apellido			: 	“Apellido1 Apellido2",
+  Email				: 	“email@gmail.com",
+  Contraseña		:	"contraseña",
+  UsuarioGoogle		:	"email@gmail.com",
+  UsuarioOpenID		:	"UsuarioOpenID",
+  UsuarioFacebook	:	"email@gmail.com",
+}
